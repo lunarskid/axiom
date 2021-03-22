@@ -1,45 +1,44 @@
-# electron-quick-start
+![BOT CLIENT](https://s12.directupload.net/images/200907/zcpxtyxp.png)
+    
 
-**Clone and run for a quick way to see Electron in action.**
+| [Download](https://github.com/Flam3rboy/discord-bot-client/releases/tag/3.1.0) | [FAQ](https://github.com/Flam3rboy/discord-bot-client/blob/master/FAQ.md) | [Tutorial](https://www.youtube.com/watch?v=AmKBFzJOMpY) |
+| :---: | :---: | :---: |
 
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
+</div>
 
-**Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
+---
 
-A basic Electron application needs just these files:
+**Discord Bot Client** allows you to use your bot, just like any other user account, except Friends and Groups. 
+**No longer Maintained, only security flaws and critical errors**
 
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
+---
+![Features](https://s12.directupload.net/images/200907/9m8qldwi.png)
+- **View Guilds** *(Lazy load them)*
+- **Manage Guilds** (Name, Image, Audit log, Emoji, Webhooks, Invites, Bans, Widget, Moderation, Roles)
+- **Manage Channels** (Add, Delete, Name, Permissions, Invites, Webhooks, Slowmode, NSFW, Topic)
+- **Messages** (Send, View History, Embeds, View Reactions, Add/Remove Reactions, Delete, Edit, Pin)
+- **Create a Guild** (if the bot has fewer than 10 Servers)
+- **Voice Support**
+- **See Guild members in the side bar** (you can see them in the server dropdown menu under members)
+- **Use Emojis from other servers** (Nitro)
+- **GIF Search**
+- **Send Files**
+- **Mobile App** (For Patreons)
+- **DM's** (DM's will show up, after a user dms the bot)
 
-You can learn more about each of these components within the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start).
+---
 
-## To Use
+![Build](https://s12.directupload.net/images/200907/5j3544ai.png)
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+>  __You need to install [NodeJS](https://nodejs.org/en/download/).__ Install git or just download the repository as a zip file:
 
-```bash
-# Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies
-npm install
-# Run the app
-npm start
+```js
+git clone https://github.com/Flam3rboy/discord-bot-client
+cd discord-bot-client/electron
 ```
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+>  Install all dependencies with ```npm i``` start Bot Client with ```electron .```
+>  
 
-## Resources for Learning Electron
 
-- [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - sample starter apps created by the community
-- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - a very basic starter Electron app
-- [electron/simple-samples](https://github.com/electron/simple-samples) - small applications with ideas for taking them further
-- [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
-- [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
-
-## License
-
-[CC0 1.0 (Public Domain)](LICENSE.md)
+*Discord Bot Client is **no longer supported** and also no longer updated or maintained.*
