@@ -1,4 +1,4 @@
-**Axiom** allows you to use your bot, just like any other user account, except Friends and Groups. Continuation of Flam3rboy/discord-bot-client.
+**Axiom** allows you to animated emotes on Discord without Nitro. Continuation of Flam3rboy/discord-bot-client.
 
 ---
 ![Features](https://s12.directupload.net/images/200907/9m8qldwi.png)
